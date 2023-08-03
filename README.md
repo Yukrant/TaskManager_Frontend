@@ -1,5 +1,7 @@
 https://64cbc9b3b759fc124962c813--dulcet-dango-ca68b5.netlify.app/
 
+<img width="960" alt="Screenshot 2023-08-03 211133" src="https://github.com/Yukrant/TaskManager_Frontend/assets/95124079/62c1abcf-b3bb-48a0-813a-f7f2603f68a7">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
